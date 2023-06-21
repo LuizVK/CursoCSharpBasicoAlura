@@ -1,0 +1,15 @@
+C:\Users\luizv\OneDrive\Documentos\Alura\Aprenda a Programar em C# com OO\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.exe
+C:\Users\luizv\OneDrive\Documentos\Alura\Aprenda a Programar em C# com OO\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.deps.json
+C:\Users\luizv\OneDrive\Documentos\Alura\Aprenda a Programar em C# com OO\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.runtimeconfig.json
+C:\Users\luizv\OneDrive\Documentos\Alura\Aprenda a Programar em C# com OO\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.dll
+C:\Users\luizv\OneDrive\Documentos\Alura\Aprenda a Programar em C# com OO\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.pdb
+C:\Users\luizv\OneDrive\Documentos\Alura\Aprenda a Programar em C# com OO\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\luizv\OneDrive\Documentos\Alura\Aprenda a Programar em C# com OO\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizv\OneDrive\Documentos\Alura\Aprenda a Programar em C# com OO\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\luizv\OneDrive\Documentos\Alura\Aprenda a Programar em C# com OO\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\luizv\OneDrive\Documentos\Alura\Aprenda a Programar em C# com OO\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\luizv\OneDrive\Documentos\Alura\Aprenda a Programar em C# com OO\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.dll
+C:\Users\luizv\OneDrive\Documentos\Alura\Aprenda a Programar em C# com OO\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\refint\PrimeiroProjeto.dll
+C:\Users\luizv\OneDrive\Documentos\Alura\Aprenda a Programar em C# com OO\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.pdb
+C:\Users\luizv\OneDrive\Documentos\Alura\Aprenda a Programar em C# com OO\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.genruntimeconfig.cache
+C:\Users\luizv\OneDrive\Documentos\Alura\Aprenda a Programar em C# com OO\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\ref\PrimeiroProjeto.dll
